@@ -32,5 +32,6 @@
 		<input type="file" name="file"> <br>
 		<button>Register</button>
 	</fm:form>
+	
 </body>
 </html>
