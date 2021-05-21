@@ -16,7 +16,7 @@ public class slide3Controller {
 	}
 	@PostMapping("slide3")
 	public String DoRegister(@ModelAttribute("user") User user) {
-		
+		//dsakdkaskljd
 		return "formDK";
 	}
 }
